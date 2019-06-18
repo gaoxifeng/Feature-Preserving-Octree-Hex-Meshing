@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\xgao\optimization\hex-mesh-simplification\extern\geogram\src\tutorial\01_basics\hello_geogram\build64\CMakeFiles\a12c4627045199b3b60b7c2b5a236acb\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9F5EAF26-CD27-3ED8-AF78-BDBB98C5A46C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

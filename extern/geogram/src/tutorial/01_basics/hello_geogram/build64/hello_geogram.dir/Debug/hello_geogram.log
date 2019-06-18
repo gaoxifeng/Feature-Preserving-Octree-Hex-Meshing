@@ -1,0 +1,8 @@
+﻿  Building Custom Rule C:/xgao/optimization/hex-mesh-simplification/extern/geogram/src/tutorial/01_basics/hello_geogram/CMakeLists.txt
+  CMake does not need to re-run because C:\xgao\optimization\hex-mesh-simplification\extern\geogram\src\tutorial\01_basics\hello_geogram\build64\CMakeFiles\generate.stamp is up-to-date.
+  main.cpp
+D:\geogram\include\geogram1\geogram/basic/geofile.h(170): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\stdio.h(1192): note: see declaration of 'fscanf'
+D:\geogram\include\geogram1\geogram/basic/geofile.h(216): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\stdio.h(1192): note: see declaration of 'fscanf'
+  hello_geogram.vcxproj -> C:\xgao\optimization\hex-mesh-simplification\extern\geogram\src\tutorial\01_basics\hello_geogram\build64\Debug\hello_geogram.exe

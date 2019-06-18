@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\xgao\optimization\hex-mesh-simplification\extern\geogram\src\tutorial\01_basics\hello_geogram\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\xgao\optimization\hex-mesh-simplification\extern\geogram\src\tutorial\01_basics\hello_geogram\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4C7BD75E-14E6-3317-BF90-359B5970BC5C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,112 @@
+[Process] Enabled multithreading
+[Process] Number of cores = 8
+[Process] Max. concurrent threads = 8
+[Process] Disabled FPE
+[ModuleManager] Loading module 'skin_qt5'
+[FileManager] Error: did not find binary file:lib/libskin_qt5.so
+[ModuleManager] Error: module 'skin_qt5' not found
+[ModuleManager] Loading module 'skin_qt4'
+[Init] Initializing library 'renderer_gl'
+[Init] Initialized library 'renderer_gl'
+[Init] Initializing library 'skin_qt4'
+[Init] Initialized library 'skin_qt4'
+[ModuleManager] Successfully loaded module 'skin_qt4'
+[Preferences] Loading module: renderer_gl
+[ModuleManager] Loading module 'renderer_gl'
+[ModuleManager] Successfully loaded module 'renderer_gl'
+[Preferences] Loading module: surface
+[ModuleManager] Loading module 'surface'
+[Init] Initializing library 'surface'
+[Init] Initialized library 'surface'
+[ModuleManager] Successfully loaded module 'surface'
+[Preferences] Loading module: volume
+[ModuleManager] Loading module 'volume'
+[Init] Initializing library 'volume'
+[Init] Initialized library 'volume'
+[ModuleManager] Successfully loaded module 'volume'
+[Preferences] Loading module: parameterizer
+[ModuleManager] Loading module 'parameterizer'
+[Init] Initialized library 'parameterizer'
+[ModuleManager] Successfully loaded module 'parameterizer'
+[Preferences] Loading module: statistics
+[ModuleManager] Loading module 'statistics'
+[Init] Initializing library 'statistics'
+[ModuleManager] Successfully loaded module 'statistics'
+[Preferences] Loading module: renderer_gl
+[ModuleManager] Loading module 'renderer_gl'
+[ModuleManager] Successfully loaded module 'renderer_gl'
+[Preferences] Loading module: surface
+[ModuleManager] Loading module 'surface'
+[ModuleManager] Successfully loaded module 'surface'
+[Preferences] Loading module: volume
+[ModuleManager] Loading module 'volume'
+[ModuleManager] Successfully loaded module 'volume'
+[Preferences] Loading module: parameterizer
+[ModuleManager] Loading module 'parameterizer'
+[ModuleManager] Successfully loaded module 'parameterizer'
+[Preferences] Loading module: statistics
+[ModuleManager] Loading module 'statistics'
+[ModuleManager] Successfully loaded module 'statistics'
+[Preferences] Loading module: GoodMesh
+[ModuleManager] Loading module 'GoodMesh'
+[Init] Initializing library 'GoodMesh'
+[ModuleManager] Successfully loaded module 'GoodMesh'
+[Preferences] Loading module: manifold_harmonics
+[ModuleManager] Loading module 'manifold_harmonics'
+[Init] Initializing library 'manifold_harmonics'
+[ModuleManager] Successfully loaded module 'manifold_harmonics'
+[Preferences] Loading module: MicroMegas
+[ModuleManager] Loading module 'MicroMegas'
+[FileManager] Error: did not find binary file:lib/libMicroMegas.so
+[ModuleManager] Error: module 'MicroMegas' not found
+[ModuleManager] Loading module 'gel_python3'
+[Init] Initialized library 'gel_python3'
+[ModuleManager] Successfully loaded module 'gel_python3'
+[Graphite] Running main gel file 'graphite.gel'
+[GEL] Loading file: /home/levy/Programming/graphite/GraphiteTwo/lib/presentation.gel
+[FileManager] Error: did not find file:/home/levy/Programming/graphite/GraphiteTwo/lib/presentation.gel
+[GEL] Error: Cannot find file '/home/levy/Programming/graphite/GraphiteTwo/lib/presentation.gel'
+[GOM] Starting Graphite ...
+[GLRenderingContext] Using GLEW 1.5.4
+[GEL>>>] gel_function_key(4)
+[Init] Terminating library 'gel_python3'
+[Init] Terminated library 'gel_python3'
+[Init] Terminating library 'manifold_harmonics'
+[Init] Terminated library 'manifold_harmonics'
+[Init] Terminating library 'GoodMesh'
+[Init] Terminated library 'GoodMesh'
+[Init] Terminating library 'statistics'
+[Init] Terminated library 'statistics'
+[Init] Terminating library 'parameterizer'
+[Init] Terminated library 'parameterizer'
+[Init] Terminating library 'volume'
+[Init] Terminated library 'volume'
+[Init] Terminating library 'surface'
+[Init] Terminated library 'surface'
+[Init] Terminating library 'skin_qt4'
+[Init] Terminated library 'skin_qt4'
+[Init] Terminating library 'renderer_gl'
+[Init] Terminated library 'renderer_gl'
+[Init] Terminating library 'scene_graph'
+[Init] Terminated library 'scene_graph'
+[Init] Terminating library 'skin'
+[Init] Terminated library 'skin'
+[Init] Terminating library 'gui'
+[Init] Terminated library 'gui'
+[Init] Terminating library 'renderer'
+[Init] Terminated library 'renderer'
+[Init] Terminating library 'cells'
+[Init] Terminated library 'cells'
+[Init] Terminating library 'image'
+[Init] Terminated library 'image'
+[Init] Terminating library 'math'
+[Init] Terminated library 'math'
+[Init] Terminating library 'gom_basic'
+[Init] Terminated library 'gom_basic'
+[Init] Terminating library 'gom'
+[Init] Terminated library 'gom'
+[Init] Terminating library 'basic'
+[ModuleManager] Terminating dynamic modules
+[ModuleManager] Terminated dynamic modules
+[Init] Terminated library 'basic'
+[Logger] terminating

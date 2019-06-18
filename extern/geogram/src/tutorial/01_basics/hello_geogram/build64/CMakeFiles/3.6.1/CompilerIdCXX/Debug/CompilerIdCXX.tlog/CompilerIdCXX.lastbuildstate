@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.14393.0
+Debug|x64|C:\xgao\optimization\hex-mesh-simplification\extern\geogram\src\tutorial\01_basics\hello_geogram\build64\CMakeFiles\3.6.1\CompilerIdCXX\|

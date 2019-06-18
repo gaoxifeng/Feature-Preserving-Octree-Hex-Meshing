@@ -1,0 +1,3 @@
+C:/xgao/optimization/hex-mesh-simplification/extern/geogram/src/tutorial/01_basics/hello_geogram/build64/CMakeFiles/hello_geogram.dir
+C:/xgao/optimization/hex-mesh-simplification/extern/geogram/src/tutorial/01_basics/hello_geogram/build64/CMakeFiles/ALL_BUILD.dir
+C:/xgao/optimization/hex-mesh-simplification/extern/geogram/src/tutorial/01_basics/hello_geogram/build64/CMakeFiles/ZERO_CHECK.dir
